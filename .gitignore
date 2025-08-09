@@ -1,0 +1,6 @@
+# Maven target directory
+target/
+
+# Environment & credentials
+.env
+config/test.properties  # we can add the our own credentials
